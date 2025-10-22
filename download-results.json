@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "ether-fi",
+    "handle": "ether_fi",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "ika",
+    "handle": "ikadotxyz",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "fhenix",
+    "handle": "fhenixIO",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "genlayer",
+    "handle": "GenLayerHQ",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "forta",
+    "handle": "FortaNetwork",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "ethgas",
+    "handle": "ETHGASofficial",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "axelar",
+    "handle": "axelar",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "tlon",
+    "handle": "tlon_io",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "superform",
+    "handle": "superformxyz",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "collective-memory",
+    "handle": "CollectiveM_AI",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "byzantine-finance",
+    "handle": "Byzantine_Fi",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "hyperbeat",
+    "handle": "hyperbeat_",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "cedar",
+    "handle": "cedar_money",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "limitless",
+    "handle": "trylimitless",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "eureka-labs",
+    "handle": "EurekaLabsAI",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "lava",
+    "handle": "lavanetxyz",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "stride",
+    "handle": "stride_zone",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "aeon",
+    "handle": "aeon_fi",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "smlxl",
+    "handle": "smlXL_",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "squid",
+    "handle": "squidrouter",
+    "success": false,
+    "error": "timeout of 10000ms exceeded"
+  },
+  {
+    "slug": "subquery",
+    "handle": "SubQueryNetwork",
+    "success": true
+  }
+]

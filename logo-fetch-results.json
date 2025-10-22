@@ -1,0 +1,122 @@
+[
+  {
+    "name": "ether.fi",
+    "twitterHandle": "ether_fi",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Ika",
+    "twitterHandle": "ikadotxyz",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Fhenix",
+    "twitterHandle": "fhenix",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Genlayer",
+    "success": false,
+    "error": "Twitter handle not found"
+  },
+  {
+    "name": "Forta",
+    "twitterHandle": "FortaNetwork",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "ETHGas",
+    "twitterHandle": "ETHGASofficial",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Axelar",
+    "twitterHandle": "axelar",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Tlon",
+    "twitterHandle": "tloncorporation",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Superform",
+    "twitterHandle": "Superformxyz",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Collective Memory",
+    "success": false,
+    "error": "Twitter handle not found"
+  },
+  {
+    "name": "Byzantine Finance",
+    "twitterHandle": "byzantine_fi",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Hyperbeat",
+    "twitterHandle": "hyperbeat",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Cedar",
+    "success": false,
+    "error": "Twitter handle not found"
+  },
+  {
+    "name": "Limitless",
+    "twitterHandle": "trylimitless",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Eureka Labs",
+    "twitterHandle": "EurekaBuilder",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Lava",
+    "success": false,
+    "error": "Twitter handle not found"
+  },
+  {
+    "name": "Stride",
+    "twitterHandle": "stride_zone",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Aeon",
+    "success": false,
+    "error": "Twitter handle not found"
+  },
+  {
+    "name": "smlXL",
+    "success": false,
+    "error": "Twitter handle not found"
+  },
+  {
+    "name": "Squid",
+    "twitterHandle": "squidrouter",
+    "success": false,
+    "error": "Avatar not found"
+  },
+  {
+    "name": "Subquery",
+    "twitterHandle": "subquerynetwork",
+    "success": false,
+    "error": "Avatar not found"
+  }
+]

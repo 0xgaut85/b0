@@ -1,17 +1,16 @@
 import type { Metadata } from 'next'
-import { Inter, Outfit } from 'next/font/google'
+import { Space_Mono } from 'next/font/google'
 import './globals.css'
 
-const inter = Inter({ subsets: ['latin'] })
-const outfit = Outfit({ 
+const spaceMono = Space_Mono({ 
+  weight: ['400', '700'],
   subsets: ['latin'],
-  weight: ['200', '300', '400', '500', '600'],
-  variable: '--font-outfit'
+  variable: '--font-space-mono'
 })
 
 export const metadata: Metadata = {
-  title: 'BlockZero',
-  description: 'BlockZero - Forward looking investors and builders. Always be first in the block.',
+  title: 'Monarch Group',
+  description: 'Monarch Group - A dedicated, thesis-driven cryptocurrency fund focused on long-term investments in crypto infrastructure and decentralized protocols.',
   icons: {
     icon: '/logo.png',
     shortcut: '/logo.png',
@@ -26,7 +25,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} ${outfit.variable}`}>
+      <head>
+        <link rel="preconnect" href="https://unavatar.io" crossOrigin="anonymous" />
+        <link rel="dns-prefetch" href="https://unavatar.io" />
+        <meta httpEquiv="x-dns-prefetch-control" content="on" />
+      </head>
+      <body className={spaceMono.variable}>
         {children}
       </body>
     </html>

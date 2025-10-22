@@ -2,6 +2,15 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'unavatar.io',
+        pathname: '/**',
+      },
+    ],
+  },
   experimental: {
     // No experimental features - using stable versions only
   },
