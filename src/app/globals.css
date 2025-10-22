@@ -519,14 +519,29 @@ body {
     margin-top: 120px;
   }
   
-  .portfolio-grid {
-    grid-template-columns: repeat(2, 1fr);
+  .portfolio-section-wrapper {
+    gap: 100px;
+  }
+  
+  .dice-pattern {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .dice-tile {
+    width: 40px;
+    height: 40px;
   }
 }
 
 @media (max-width: 768px) {
   body {
     padding: 24px;
+    font-size: 12px;
+  }
+  
+  .navbar {
+    margin-bottom: 80px;
   }
   
   .navbar-grid {
@@ -546,6 +561,10 @@ body {
     gap: 24px;
   }
   
+  .section-spacing {
+    margin-top: 80px;
+  }
+  
   .section-title {
     font-size: 36px;
     line-height: 36px;
@@ -560,13 +579,55 @@ body {
     grid-column: span 12;
   }
   
-  .portfolio-grid {
-    grid-template-columns: 1fr;
-    gap: 24px;
+  /* Portfolio responsive */
+  .portfolio-section-wrapper {
+    flex-direction: column !important;
+    gap: 60px;
+    align-items: center !important;
+  }
+  
+  .portfolio-section-wrapper.section-right {
+    flex-direction: column !important;
+  }
+  
+  .portfolio-grid-3x3 {
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 100%;
   }
   
   .portfolio-item {
-    font-size: 24px;
+    padding: 10px;
+  }
+  
+  .portfolio-logo {
+    width: 60px;
+    height: 60px;
+  }
+  
+  .portfolio-name {
+    font-size: 14px;
+  }
+  
+  /* Dice pattern responsive */
+  .dice-decoration {
+    gap: 30px;
+    align-self: center;
+  }
+  
+  .dice-pattern {
+    width: 90px;
+    height: 90px;
+  }
+  
+  .dice-pattern-offset {
+    margin-left: 50px;
+  }
+  
+  .dice-tile {
+    width: 30px;
+    height: 30px;
   }
   
   .team-grid {
@@ -579,8 +640,89 @@ body {
     gap: 40px;
   }
   
+  .stat-value {
+    font-size: 48px;
+  }
+  
   .footer-content {
     grid-template-columns: 1fr;
     gap: 40px;
   }
 }
+
+@media (max-width: 480px) {
+  body {
+    padding: 16px;
+  }
+  
+  .navbar {
+    margin-bottom: 60px;
+  }
+  
+  .logo {
+    height: 60px;
+  }
+  
+  .section-spacing {
+    margin-top: 60px;
+  }
+  
+  .section-title {
+    font-size: 28px;
+    line-height: 32px;
+  }
+  
+  .large-text {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  
+  .portfolio-sections {
+    gap: 60px;
+  }
+  
+  .portfolio-section-wrapper {
+    gap: 40px;
+  }
+  
+  .portfolio-grid-3x3 {
+    gap: 15px;
+  }
+  
+  .portfolio-logo {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .portfolio-name {
+    font-size: 12px;
+  }
+  
+  .dice-decoration {
+    gap: 20px;
+  }
+  
+  .dice-pattern {
+    width: 75px;
+    height: 75px;
+  }
+  
+  .dice-pattern-offset {
+    margin-left: 30px;
+  }
+  
+  .dice-tile {
+    width: 25px;
+    height: 25px;
+  }
+  
+  .stat-value {
+    font-size: 36px;
+  }
+  
+  .blog-title {
+    font-size: 20px;
+    line-height: 28px;
+  }
+}
+
