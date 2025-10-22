@@ -151,7 +151,7 @@ export default function Page() {
             </div>
           </div>
 
-          <a href="mailto:investments@monarchgroup.capital" className="contact-button">
+          <a href="mailto:investments@monarch-group.xyz" className="contact-button">
             Contact
           </a>
         </div>
@@ -402,7 +402,7 @@ export default function Page() {
             
             <div className="footer-section">
               <h4>Get In Touch</h4>
-              <a href="mailto:investments@monarchgroup.capital">investments@monarchgroup.capital</a>
+              <a href="mailto:investments@monarch-group.xyz">investments@monarch-group.xyz</a>
             </div>
             
             <div className="footer-section">
